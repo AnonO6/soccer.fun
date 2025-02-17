@@ -1,4 +1,5 @@
 # 1v1 Football Game
+<img width="1430" alt="Screenshot 2025-02-18 at 2 15 31 AM" src="https://github.com/user-attachments/assets/522b44b6-c3b7-4d0f-99f7-de73b27e90ff" />
 
 ## Overview
 This is a decentralized 1v1 football game where players connect their crypto wallets, create or join a game, and stake tokens. The winner takes the token pool.
